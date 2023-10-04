@@ -9,7 +9,7 @@ In this course I was learnt about Blockchain (which is certainly a WEB3) along w
 
 4.Functions etc,
 
-At last after complete this course i have a project to mint and burn a token with the help of solidity.
+At last after complete this course I have a project to mint and burn a token with the help of solidity.
 
 ## Overview
 
