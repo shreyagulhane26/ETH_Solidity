@@ -2,9 +2,13 @@
 In this course I was learnt about Blockchain (which is certainly a WEB3) along with the solidity programming. There are so many concepts of solidity I learnt from this course like as
 
 1.Variables
+
 2.Datatypes
+
 3.Mapping
+
 4.Functions etc,
+
 At last after complete this course i have a project to mint and burn a token with the help of solidity.
 
 ## Overview
