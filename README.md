@@ -1,5 +1,6 @@
 # Solidity Course
 In this course I was learnt about Blockchain (which is certainly a WEB3) along with the solidity programming. There are so many concepts of solidity I learnt from this course like as
+
 1.Variables
 2.Datatypes
 3.Mapping
